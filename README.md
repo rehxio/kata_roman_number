@@ -1,1 +1,2 @@
-# kata_roman_number
+# Kata de números romanos
+Convierte a numeros romanos y testea.
